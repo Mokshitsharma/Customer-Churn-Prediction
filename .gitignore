@@ -1,0 +1,30 @@
+# Security hardening
+.env*
+!.env.example
+*.pem
+*.key
+serviceAccountKey.json
+google-services.json
+GoogleService-Info.plist
+firebase-applet-config.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+dist/
+build/
+.DS_Store
+*.db
+*.sqlite
+*.pt
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.zip
+.idea/
+.vscode/
+
+# private working notes
+brain/

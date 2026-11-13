@@ -1,5 +1,20 @@
-# 📉 Customer Churn Prediction using Machine Learning
+<!-- readme-refresh 2026-11 -->
+<div align="center">
 
+# 📉 Customer Churn Prediction
+
+**EDA and churn modelling on the Telco customer dataset**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+</div>
+
+## ✨ Highlights
+
+- Telco dataset of about 7,000 customers
+- Exploratory analysis of who churns and why
+
+<!-- body -->
 ## 🧠 Predicting Customer Retention with AI-Driven Insights
 This project implements an end-to-end customer churn forecasting system using machine learning techniques to identify which customers are most likely to leave a telecom service provider. It demonstrates the entire data science workflow—from data preprocessing and exploratory analysis to model evaluation and insight generation.
 
@@ -143,3 +158,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 > If you found this project insightful, give it a ⭐ on GitHub!
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
